@@ -1,0 +1,47 @@
+[
+  {
+    "source_name": "SEC Edgar Database",
+    "url": "https://sec.gov/edgar",
+    "jurisdiction": "USA",
+    "entity_types": ["Investment Adviser", "Hedge Fund", "Asset Manager"],
+    "data_provided": ["Registration status", "Form ADV filings", "Investment adviser reports"],
+    "access_method": "Public API",
+    "reliability": "High"
+  },
+  {
+    "source_name": "OCC Corporate Activities",
+    "url": "https://occ.gov/topics/licensing/corporate-activities",
+    "jurisdiction": "USA",
+    "entity_types": ["National Bank", "Federal Savings Association"],
+    "data_provided": ["Charter information", "Regulatory approvals", "Enforcement actions"],
+    "access_method": "Public Website",
+    "reliability": "High"
+  },
+  {
+    "source_name": "FCA Register",
+    "url": "https://register.fca.org.uk",
+    "jurisdiction": "UK",
+    "entity_types": ["Bank", "Asset Manager", "Hedge Fund"],
+    "data_provided": ["Authorization status", "Permissions", "Regulatory history"],
+    "access_method": "Public API",
+    "reliability": "High"
+  },
+  {
+    "source_name": "Delaware Division of Corporations",
+    "url": "https://icis.corp.delaware.gov",
+    "jurisdiction": "Delaware, USA",
+    "entity_types": ["Corporation", "LLC", "Limited Partnership"],
+    "data_provided": ["Incorporation status", "Good standing", "Registered agent"],
+    "access_method": "Public Search",
+    "reliability": "High"
+  },
+  {
+    "source_name": "GLEIF LEI Database",
+    "url": "https://lei.gleif.org",
+    "jurisdiction": "Global",
+    "entity_types": ["All Legal Entities"],
+    "data_provided": ["LEI validation", "Entity details", "Corporate hierarchy"],
+    "access_method": "API",
+    "reliability": "High"
+  }
+]

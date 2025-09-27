@@ -1,0 +1,9 @@
+Legal Name,LEI Number,RDM Obligator ID,Agreement Type,Status,Onboarding Date,Primary Contact
+Goldman Sachs Asset Management LLC,LMPQFR1LHAW71HGQGA77,RDM001,ISDA,Pending,2024-01-15,john.smith@gs.com
+Bridgewater Associates LP,5493006MHB84DD0ZWV18,RDM002,CSA,In Progress,2024-02-01,legal@bridgewater.com
+JPMorgan Chase Bank NA,7H6GLXDRUGQFU57RNE97,RDM003,ISDA,Completed,2023-12-10,compliance@jpmorgan.com
+Man Group plc,MLKBWG1CBLZLWR7DYP07,RDM004,ISDA,Pending,2024-01-20,legal@man.com
+Two Sigma Investments LP,549300DHLU1APW6NMU86,RDM005,CSA,Pending,2024-02-15,ops@twosigma.com
+Millennium Management LLC,5493006MHB84DD0ZWV19,RDM006,ISDA,In Progress,2024-01-30,legal@millennium.com
+Citadel LLC,54930036Y4K4NMLWB485,RDM007,MRA,Pending,2024-02-20,compliance@citadel.com
+BlackRock Inc,54930056FHWP2J9NOG46,RDM008,GMRA,Completed,2023-11-15,legal@blackrock.com

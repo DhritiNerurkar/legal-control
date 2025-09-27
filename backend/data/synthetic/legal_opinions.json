@@ -1,0 +1,67 @@
+[
+  {
+    "id": "LO001",
+    "entity_type": "Commercial Bank",
+    "jurisdiction": "Delaware, USA",
+    "product": "ISDA",
+    "opinion_available": true,
+    "opinion_provider": "Cravath, Swaine & Moore",
+    "opinion_date": "2023-01-15",
+    "netting_enforceability": "Confirmed",
+    "close_out_netting": "Confirmed",
+    "opinion_summary": "Standard ISDA Master Agreement enforceable under Delaware law with full netting rights",
+    "limitations": []
+  },
+  {
+    "id": "LO002",
+    "entity_type": "Hedge Fund",
+    "jurisdiction": "Delaware, USA",
+    "product": "ISDA",
+    "opinion_available": true,
+    "opinion_provider": "Davis Polk & Wardwell",
+    "opinion_date": "2023-03-20",
+    "netting_enforceability": "Confirmed",
+    "close_out_netting": "Confirmed",
+    "opinion_summary": "ISDA enforceability confirmed for Delaware limited partnerships",
+    "limitations": ["Subject to general bankruptcy limitations"]
+  },
+  {
+    "id": "LO003",
+    "entity_type": "Asset Manager",
+    "jurisdiction": "England and Wales",
+    "product": "CSA",
+    "opinion_available": true,
+    "opinion_provider": "Linklaters LLP",
+    "opinion_date": "2023-02-10",
+    "netting_enforceability": "Confirmed",
+    "close_out_netting": "Confirmed",
+    "opinion_summary": "Credit Support Annex enforceable under English law",
+    "limitations": ["FCA authorization required"]
+  },
+  {
+    "id": "LO004",
+    "entity_type": "Commercial Bank",
+    "jurisdiction": "New York, USA",
+    "product": "GMRA",
+    "opinion_available": true,
+    "opinion_provider": "Sullivan & Cromwell",
+    "opinion_date": "2023-04-05",
+    "netting_enforceability": "Confirmed",
+    "close_out_netting": "Confirmed",
+    "opinion_summary": "Global Master Repurchase Agreement enforceable for national banks",
+    "limitations": []
+  },
+  {
+    "id": "LO005",
+    "entity_type": "Investment Fund",
+    "jurisdiction": "Cayman Islands",
+    "product": "ISDA",
+    "opinion_available": false,
+    "opinion_provider": null,
+    "opinion_date": null,
+    "netting_enforceability": "Under Review",
+    "close_out_netting": "Under Review",
+    "opinion_summary": "No standard opinion available for Cayman funds",
+    "limitations": ["Requires specific legal opinion"]
+  }
+]

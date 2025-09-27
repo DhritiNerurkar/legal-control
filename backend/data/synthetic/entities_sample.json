@@ -1,0 +1,67 @@
+[
+  {
+    "legal_name": "Goldman Sachs Asset Management LLC",
+    "lei_number": "LMPQFR1LHAW71HGQGA77",
+    "entity_type": "Asset Manager",
+    "jurisdiction": "Delaware, USA",
+    "incorporation_date": "1995-03-15",
+    "regulatory_status": "SEC Registered Investment Adviser",
+    "website": "https://gsam.com",
+    "business_description": "Investment management services for institutional clients",
+    "authorized_products": ["ISDA", "CSA", "Securities Lending"],
+    "capacity_limitations": [],
+    "regulatory_body": "SEC"
+  },
+  {
+    "legal_name": "Bridgewater Associates LP",
+    "lei_number": "5493006MHB84DD0ZWV18",
+    "entity_type": "Hedge Fund",
+    "jurisdiction": "Delaware, USA",
+    "incorporation_date": "1975-01-01",
+    "regulatory_status": "SEC Registered Investment Adviser",
+    "website": "https://bridgewater.com",
+    "business_description": "Global macro hedge fund",
+    "authorized_products": ["ISDA", "CSA", "MRA"],
+    "capacity_limitations": [],
+    "regulatory_body": "SEC"
+  },
+  {
+    "legal_name": "JPMorgan Chase Bank, National Association",
+    "lei_number": "7H6GLXDRUGQFU57RNE97",
+    "entity_type": "Commercial Bank",
+    "jurisdiction": "Ohio, USA",
+    "incorporation_date": "1824-06-01",
+    "regulatory_status": "National Bank",
+    "website": "https://jpmorgan.com",
+    "business_description": "Commercial banking and financial services",
+    "authorized_products": ["ISDA", "CSA", "MRA", "GMRA", "MSFTA"],
+    "capacity_limitations": [],
+    "regulatory_body": "OCC"
+  },
+  {
+    "legal_name": "Man Group plc",
+    "lei_number": "MLKBWG1CBLZLWR7DYP07",
+    "entity_type": "Asset Manager",
+    "jurisdiction": "England and Wales",
+    "incorporation_date": "1783-01-01",
+    "regulatory_status": "FCA Authorized",
+    "website": "https://man.com",
+    "business_description": "Alternative investment management",
+    "authorized_products": ["ISDA", "CSA"],
+    "capacity_limitations": ["No prime brokerage"],
+    "regulatory_body": "FCA"
+  },
+  {
+    "legal_name": "Two Sigma Investments, LP",
+    "lei_number": "549300DHLU1APW6NMU86",
+    "entity_type": "Hedge Fund",
+    "jurisdiction": "Delaware, USA",
+    "incorporation_date": "2001-01-01",
+    "regulatory_status": "SEC Registered Investment Adviser",
+    "website": "https://twosigma.com",
+    "business_description": "Quantitative hedge fund",
+    "authorized_products": ["ISDA", "CSA"],
+    "capacity_limitations": ["Limited to systematic strategies"],
+    "regulatory_body": "SEC"
+  }
+]
