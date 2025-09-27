@@ -1,0 +1,26 @@
+# Ignore environment files
+backend/.env
+backend/.DS_Store
+
+# Ignore Python cache / compiled files
+backend/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore logs
+backend/logs/
+*.log
+
+# Ignore database files
+backend/*.db
+backend/*.sqlite3
+
+# Ignore frontend node_modules
+frontend/node_modules/
+
+# Optional: lock files if needed
+*.lock
+
+# macOS system files
+.DS_Store
